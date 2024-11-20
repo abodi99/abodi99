@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Mofleh</h1>
 <h3 align="center">Mobile Application developer and cyber security expert</h3>
 
+<img src="https://raw.githubusercontent.com/abodi99/abodi99/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abodi99&label=Profile%20views&color=0e75b6&style=flat" alt="abodi99" /> </p>
